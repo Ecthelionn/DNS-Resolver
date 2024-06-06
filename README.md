@@ -1,25 +1,4 @@
-DNS Resolver
-This project is a Python application that performs DNS resolution operations. DNS resolution is used to resolve the IP address of a specific domain name.
 
-Installation
- 1.Download or clone the project:
- git clone https://github.com/Ecthelionn/DNS-Resolver
- 2. Install the required library:
- pip install dnspython
-Usage
- 1.Navigate to the directory where the project is located in your terminal or command prompt:
- cd DNS-Resolver
- 2.To start the DNS resolution process, run:
- python resolver.py
- 3.The program will prompt you to enter the domain name and file path. Please enter this information in the correct format.
-File Structure
-The entries.txt file should contain a list of subdomains and paths to be scanned. For example:
-subdomain1
-subdomain2
-/admin
-/login
-Required Libraries
-DNSPython
 <h1>DNS Resolver</h1>
 
 <p>This project is a Python application that performs DNS resolution operations. DNS resolution is used to resolve the IP address of a specific domain name.</p>

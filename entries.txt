@@ -217,3 +217,4 @@ case-studies
 /locations
 /directions
 /map
+/about-us
